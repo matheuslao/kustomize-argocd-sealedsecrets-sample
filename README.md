@@ -1,0 +1,2 @@
+# kustomize-argocd-sealedsecrets-sample
+ 
